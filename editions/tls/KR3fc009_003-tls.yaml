@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc009/tls/v1/juan/3
+seq: 3
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 算學源流
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc009.xml
+hash: sha256:8af1ba9bc4210b908437525c5efdc1c65fb7591e439e7cc2216fc14923340618

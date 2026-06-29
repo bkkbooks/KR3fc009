@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc009/tls/v1/juan/10
+seq: 10
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 學正擧行學規一員職事人學錄佐學正糾不如規者一人學諭以所習業傳諭諸生一人司計掌飲食支用一人直學掌文籍及謹學生出入二人司書掌書籍一人齋長紏齋中不如規者齋諭掌佐齋長道諭諸生齋各一人學生上舍三十人內舍八十人外舍一百五十人補試命官公試同九章義三道筭問二道私試孟月補上內舍第一埸九章周髀義三道
+  hash: sha256:37e69fdbe1a13a0b64db840810efecd66df5475e482ffd4d6b3d6954f70f03dd
+metadata:
+  title: 算學源流
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc009.xml
+hash: sha256:46aff4751e882c0ccfd88b6a92efc3cd08931b03df0938716cf566bf511b7ccf

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc009/tls/v1/juan/8
+seq: 8
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 以下所掌亦如之唐廢算學顯慶元年復置三年又廢以博士以下隸太史局龍朔二年復有學生十人典學二人東都學生二人崇寧國子監算學令諸學生習九章周髀義及算問謂假設疑數兼通海島孫子五曹張丘建夏侯陽算法並曆算三式天文書諸試以通粗併計兩粗當一通算義算問以所對優長通及三分以上為合格曆算即算前一季五星昏曉宿度或日月交食仍算定時刻早晚及所食分數三式即射覆及豫占三日陰陽風雨天文即豫定一月或一季分野災祥並以依經備草合問為通崇寧國子監算學格官屬博士四員內二員分講九章周髀二員分習曆算三式天文
+  hash: sha256:41c4e3269d48ddecd23bdcd48e7614c9b724966ae04a31a82f1044de6e4dfc75
+metadata:
+  title: 算學源流
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc009.xml
+hash: sha256:f5bcefbcce83e5170bffe05d22e01aa20626eed0adccc8277003fcdfa22a9ed1
