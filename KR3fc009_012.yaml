@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 算問二道私試仲月補上內舍第二埸曆算一道私試季月補上內舍第三埸三式或天文一道崇寧國子監算學對修中書省格秋試奏到算學升補上舍等第推恩下項上舍上等通仕郎上舍中等登仕郎上舍下等將仕郎
-  hash: sha256:1799bfa0a5d6fae14ce9904ecf1e8323d62d40f090ffb40ac53794a5fcacab29
+  text: 筭問二道私試仲月補上內舍第二埸曆筭一道私試季月補上內舍第三埸三式或天文一道崇寧國子監筭學對修中書省格秋試奏到筭學升補上舍等第推恩下項上舍上等通仕郎上舍中等登仕郎上舍下等將仕郎
+  hash: sha256:cb78d8395fa7a9e7f03eb2e025a28d582484f64b4419bdd3a66be54ca4128b05
 metadata:
   title: 算學源流
   edition:
@@ -13,4 +13,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR3fc009.xml
-hash: sha256:7d28bf562ec6a4d3f2931c2bdd43852cea795ab43f2030076da709334c39f7e9
+hash: sha256:deb12e15dbf8a3186a438bcb7df852d686d06b2f8717b31f285e117a9d33fa68
